@@ -4,7 +4,7 @@
 Схема БД.
 ![allTotal](https://user-images.githubusercontent.com/72038900/212679050-c99cc763-a507-4e3a-8e9c-e3d145923908.PNG)
 Вкладка олимпийские игры.
-![o1](https://user-images.githubusercontent.com/72038900/212679339-240b2c3a-bcd9-4781-8fcd-eeca33ff39ea.PNG)
+![o1](https://user-images.githubusercontent.com/72038900/216912835-b00c7151-d502-4532-b973-aefda402d667.PNG)
 Мужская сборная.
 ![o2](https://user-images.githubusercontent.com/72038900/212679509-e3ede7c9-7d3f-476c-9a4b-4a44b7b58018.PNG)
 Вкладка профессиональный бокс.
